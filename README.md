@@ -1,0 +1,4 @@
+Linux 
+Manjaro
+Code
+Java
