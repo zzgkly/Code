@@ -1,4 +1,4 @@
 Linux 
-Manjaro
+Arch
 Code
 Java
