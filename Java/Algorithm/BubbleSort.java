@@ -20,7 +20,7 @@ public class BubbleSort {
             for (int j = 0; j < array.length - 1 - i; j++) {
                 if (array[j + 1] < array[j]) {
 
-                    //一给二，二给三，三再给2
+                    //一给二，二给三，三再给二
                     temp = array[j];
                     array[j] = array[j + 1];
                     array[j + 1] = temp;
