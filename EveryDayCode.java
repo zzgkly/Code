@@ -64,7 +64,7 @@ public class EveryDayCode
             result[array2[i][0]][array2[i][1]] = array2[i][2];
         } */
 
-/*         for (int[] is : array2) {
+        /*for (int[] is : array2) {
             for (int is2 : is) {
                 System.out.print(is2 + "\t");
             }
